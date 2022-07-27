@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(219, 194, 190);
+    margin: 10% 0 10% 15%;
+
+
+}
+.main{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    box-shadow: 2px 2px 0px 2px gainsboro;
+    font-size: 16px;
+    font-family:sans-serif ;
+    line-height: 2px;
+    text-align: start;
+    position: static;
+
+}
+.leftbox{
+    padding: 3%;
+    display: grid;
+    background-color: rgb(247, 247, 247);
+    width: 50%;
+}
+.rightbox{
+    padding: 3%;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 100%;
+}
+.back{
+    color: rgb(77, 75, 199);
+}
+h1{
+    font-size: 22px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+
+h3{
+    color: rgb(215, 214, 238);
+    font-size: 11px;
+    padding-top: 1.5rem;
+}
+
+.star{
+    display: flex;
+    width: 35%;
+    justify-content: space-between;
+    font-size: 12px;
+}
+.stars{
+    display: flex;
+    color: yellow;
+
+}
+.qual{
+    display: flex;
+
+}
+button{
+    border:solid 1px rgb(232, 232, 240);
+    background-color: white;
+    margin: 0.5%;
+    height: 2rem;
+}
+.style{
+    display: flex;
+
+}
+.color{
+    display: flex;
+
+}
+.color button{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    margin-top: 1px;
+}
+.size{
+    display: flex;
+
+}
+.faqs{
+    display: flex;
+    margin: 2%;
+
+}
+.blush{
+    display: flex;
+
+}
+
+.aaa{
+    background-color :rgb(39, 212, 194);
+}
+.bbb{
+    background-color: black;
+}
+.ccc{
+    background-color: white;
+}
+.bars{
+   height: 5rem;
+   margin: 15%;
+   width: 60rem;
+   background-color: #FFFFFF;
+   position: fixed;
+   bottom: 1%;
+   display: flex;
+   left: 13px;
+   padding: 0.5%;
+   right: 2rem;
+   justify-content: space-between;
+
+    
+}
+.add{
+    display: flex;
+}
+.add button{
+    background-color: rgb(65, 65, 232);
+    color: #FFFFFF;
+    width: 10rem;
+    border-radius: 3px;
+}
